@@ -1,5 +1,5 @@
 import React from "react";
-import Flash from './components/Flash/page';
+import Flash from './components/Flash/Flash';
 
 
 function Home() {

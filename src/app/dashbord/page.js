@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "./../components/Navbar/page";
+import Navbar from "./../components/Navbar/Navbar";
 import { faBell, faFile } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 

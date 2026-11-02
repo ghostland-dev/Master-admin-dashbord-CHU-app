@@ -1,6 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Flash from './../../components/Flash/page';
+import Flash from './../../components/Flash/Flash';
 import { Image } from 'next/image';
  
 function Inscription() {
