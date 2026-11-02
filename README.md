@@ -1,5 +1,7 @@
 # CHU Admin Dashboard
 
+[![CI](https://github.com/ghostland-dev/chu-admin-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/ghostland-dev/chu-admin-dashboard/actions/workflows/ci.yml)
+
 Administration dashboard for a hospital (CHU) built with Next.js and Tailwind.
 
 ## Features
